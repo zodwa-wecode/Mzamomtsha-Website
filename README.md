@@ -8,8 +8,7 @@ by clicking the link(https://github.com/nadinetruter/Mzamomtsha-Website)
 then upload the project files into a file on your pc
 
 Look how easy it is to use:
-click on link above
-upload files
+click on link above and then click on upload files
 
 Contribute:
 Issue Tracker: https://github.com/nadinetruter/Mzamomtsha-Website/issues
