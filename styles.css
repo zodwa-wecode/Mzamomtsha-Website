@@ -1,0 +1,87 @@
+
+body{
+  background-color: grey;
+}
+
+.col-10{
+  font-size:calc(10px + 0.5vw);
+
+}
+.searchContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+.custom-search-input {
+  border: none;
+  border-bottom: 2px solid #757575;
+  background: transparent;
+  outline: none;
+  padding-bottom: 5px;
+  min-width: 250px;
+  text-indent: 40px;
+}
+
+.search-area {
+  display: inline-block;
+}
+
+.search-icon {
+  font-size: 18px;
+  margin-right: -20px;
+  margin-top: 3px;
+}
+.btn.btn-primary.dropdown-toggle {
+  align-self: end;
+}
+
+.dropdown, .dropleft, .dropright, .dropup {
+  /*position: relative;*/
+  align-self: flex-end;
+}
+
+.titleContainer {
+  display: flex;
+  align-items: flex-end;
+  font-size:calc(12px + 1.5vw);
+}
+
+.eventsResults {
+  display: flex;
+  flex-direction: column;
+  /*justify-content: center;*/
+}
+
+.dropdown, .dropleft, .dropright, .dropup {
+  display: flex;
+  align-self: flex-end;
+}
+.row-striped:nth-of-type(odd) {
+  background-color: #efefef;
+  border-left: 10px #cd3333 solid;
+}
+
+.row-striped:nth-of-type(even) {
+  background-color: #ffffff;
+  border-left: 15px #efefef solid;
+}
+
+.row-striped {
+  padding: 15px 0;
+  margin-top: 15px;
+}
+
+.container {
+  padding-top: 5px;
+}
+
+.date-green {
+  background-color: #cd3333;
+}
+
+.badge-grey {
+  background-color: #efefef;
+}
+
+.float-left.float-md-right.mt-5.mt-md-0.search-area {
+  align-self: center;
+}
