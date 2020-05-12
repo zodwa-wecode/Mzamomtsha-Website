@@ -8,13 +8,13 @@ by clicking the link(https://github.com/nadinetruter/Mzamomtsha-Website)
 then upload the project files into a file on your pc
 
 Look how easy it is to use:
-
-
+click on link above
+upload files
 
 Contribute:
-Issue Tracker: github.com/#Mzamomtsha-Website/#Mzamomtsha-Website/issues
+Issue Tracker: https://github.com/nadinetruter/Mzamomtsha-Website/issues
 
-Source Code: github.com/#Mzamomtsha-Website/#Mzamomtsha-Website/
+Source Code: https://github.com/nadinetruter/Mzamomtsha-Website
 
 Support:
 If you are having issues, please let us know.
