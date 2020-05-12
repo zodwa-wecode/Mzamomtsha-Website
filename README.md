@@ -21,4 +21,4 @@ If you are having issues, please let us know.
 We have a mailing list located at: Website@google.com
 
 License:
-The project is licensed under the MIT license.
+The project is licensed under the MIT license. You can find more information in the LICENSE file.
