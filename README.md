@@ -45,4 +45,6 @@ License:
 The project is licensed under the MIT license. You can find more information in the LICENSE file.
 
 Acknowledgements:
+Our mentor(Keoikantse Botlholo) 
+Tech Champs (Diego Mizero and David Robertson)
 
